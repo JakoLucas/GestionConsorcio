@@ -1,0 +1,522 @@
+# depslib dependency file v1.0
+1761787323 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\main.cpp
+	<iostream>
+	"Titular.h"
+	"archivoTitular.h"
+	"Residente.h"
+	"residenteArchivo.h"
+	"Fecha.h"
+
+1761441815 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\aplicacion.h
+	"gestionMenu.h"
+
+1761442437 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\aplicacion.cpp
+	<iostream>
+	"Aplicacion.h"
+
+1761442355 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\gestionmenu.cpp
+	<iostream>
+	"gestionMenu.h"
+
+1761441745 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\gestionmenu.h
+
+1761533959 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\persona.cpp
+	<iostream>
+	<string.h>
+	"persona.h"
+
+1761533959 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\persona.h
+
+1761535679 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\titular.h
+	"persona.h"
+
+1761781968 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\titular.cpp
+	<iostream>
+	"Titular.h"
+	<string.h>
+
+1761605589 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\residente.h
+	"persona.h"
+	"Fecha.h"
+
+1761781920 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\residente.cpp
+	<iostream>
+	"Residente.h"
+	<string.h>
+
+1761605478 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1761605366 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\fecha.h
+
+1761782943 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\residentearchivo.h
+	"Residente.h"
+
+1761787323 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\residentearchivo.cpp
+	<iostream>
+	"residenteArchivo.h"
+	<string.h>
+
+1761787323 source:c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\archivotitular.cpp
+	<iostream>
+	"archivoTitular.h"
+	<string.h>
+
+1761780723 c:\users\lucas arieel\desktop\tp integrador\gestionconsorcio\archivotitular.h
+	"Titular.h"
+
+1761442438 source:d:\tp integrador\gestionconsorcio\aplicacion.cpp
+	<iostream>
+	"Aplicacion.h"
+
+1761441816 d:\tp integrador\gestionconsorcio\aplicacion.h
+	"gestionMenu.h"
+
+1762035204 d:\tp integrador\gestionconsorcio\gestionmenu.h
+	"menuTitular.h"
+
+1762038716 source:d:\tp integrador\gestionconsorcio\archivotitular.cpp
+	<iostream>
+	"archivoTitular.h"
+	<string.h>
+
+1762028454 d:\tp integrador\gestionconsorcio\archivotitular.h
+	"Titular.h"
+
+1761535680 d:\tp integrador\gestionconsorcio\titular.h
+	"persona.h"
+
+1762021850 d:\tp integrador\gestionconsorcio\persona.h
+	<string>
+
+1761605480 source:d:\tp integrador\gestionconsorcio\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1761605368 d:\tp integrador\gestionconsorcio\fecha.h
+
+1762035252 source:d:\tp integrador\gestionconsorcio\gestionmenu.cpp
+	<iostream>
+	"gestionMenu.h"
+
+1762035394 source:d:\tp integrador\gestionconsorcio\main.cpp
+	<iostream>
+	"Titular.h"
+	"archivoTitular.h"
+	"Residente.h"
+	"residenteArchivo.h"
+	"Fecha.h"
+	"Aplicacion.h"
+	"managerTitulares.h"
+	"menuTitular.h"
+
+1761605590 d:\tp integrador\gestionconsorcio\residente.h
+	"persona.h"
+	"Fecha.h"
+
+1761782944 d:\tp integrador\gestionconsorcio\residentearchivo.h
+	"Residente.h"
+
+1761533960 source:d:\tp integrador\gestionconsorcio\persona.cpp
+	<iostream>
+	<string.h>
+	"persona.h"
+
+1761781922 source:d:\tp integrador\gestionconsorcio\residente.cpp
+	<iostream>
+	"Residente.h"
+	<string.h>
+
+1761787324 source:d:\tp integrador\gestionconsorcio\residentearchivo.cpp
+	<iostream>
+	"residenteArchivo.h"
+	<string.h>
+
+1761781970 source:d:\tp integrador\gestionconsorcio\titular.cpp
+	<iostream>
+	"Titular.h"
+	<string.h>
+
+1762038454 d:\tp integrador\gestionconsorcio\managertitulares.h
+	"archivoTitular.h"
+
+1762038454 source:d:\tp integrador\gestionconsorcio\managertitulares.cpp
+	<iostream>
+	"managerTitulares.h"
+	<string.h>
+
+1762035204 d:\tp integrador\gestionconsorcio\menutitular.h
+	<managerTitulares.h>
+
+1762038454 source:d:\tp integrador\gestionconsorcio\menutitular.cpp
+	<iostream>
+	"menuTitular.h"
+
+1764006252 source:e:\tp integrador\gestionconsorcio\aplicacion.cpp
+	<iostream>
+	"Aplicacion.h"
+
+1764006252 e:\tp integrador\gestionconsorcio\aplicacion.h
+	"gestionMenu.h"
+	"MenuInformes.h"
+	"MenuConfiguracion.h"
+	"rlutil.h"
+
+1762735508 e:\tp integrador\gestionconsorcio\gestionmenu.h
+	"menuTitular.h"
+	"menuResidente.h"
+	"MenuEdificio.h"
+	"MenuUnidadFuncional.h"
+	"MenuReclamo.h"
+	"MenuExpensas.h"
+	"MenuServicio.h"
+
+1762035204 e:\tp integrador\gestionconsorcio\menutitular.h
+	<managerTitulares.h>
+
+1762038454 e:\tp integrador\gestionconsorcio\managertitulares.h
+	"archivoTitular.h"
+
+1764126804 e:\tp integrador\gestionconsorcio\archivotitular.h
+	"Titular.h"
+	"fstream"
+
+1764126728 e:\tp integrador\gestionconsorcio\titular.h
+	"persona.h"
+
+1762021850 e:\tp integrador\gestionconsorcio\persona.h
+	<string>
+
+1764243472 source:e:\tp integrador\gestionconsorcio\archivotitular.cpp
+	<iostream>
+	"archivoTitular.h"
+	<string.h>
+
+1761605480 source:e:\tp integrador\gestionconsorcio\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1761605368 e:\tp integrador\gestionconsorcio\fecha.h
+
+1764205394 source:e:\tp integrador\gestionconsorcio\gestionmenu.cpp
+	<iostream>
+	"gestionMenu.h"
+	"rlutil.h"
+
+1763071964 source:e:\tp integrador\gestionconsorcio\main.cpp
+	<iostream>
+	"Titular.h"
+	"archivoTitular.h"
+	"Residente.h"
+	"residenteArchivo.h"
+	"Fecha.h"
+	"Aplicacion.h"
+	"managerTitulares.h"
+	"menuTitular.h"
+	"Edificio.h"
+	"Expensa.h"
+	"UnidadFuncional.h"
+	"Reclamo.h"
+	"Proveedor.h"
+	"Edificio.h"
+	"ArchivoEdificio.h"
+	"MenuEdificio.h"
+
+1763006878 e:\tp integrador\gestionconsorcio\residente.h
+	"persona.h"
+	"Fecha.h"
+
+1764016910 e:\tp integrador\gestionconsorcio\residentearchivo.h
+	"Residente.h"
+
+1763929768 source:e:\tp integrador\gestionconsorcio\managertitulares.cpp
+	<iostream>
+	"managerTitulares.h"
+	<string.h>
+
+1763049956 source:e:\tp integrador\gestionconsorcio\menutitular.cpp
+	<iostream>
+	"menuTitular.h"
+	"rlutil.h"
+
+1761533960 source:e:\tp integrador\gestionconsorcio\persona.cpp
+	<iostream>
+	<string.h>
+	"persona.h"
+
+1763006878 source:e:\tp integrador\gestionconsorcio\residente.cpp
+	<iostream>
+	"Residente.h"
+	<string.h>
+
+1764243864 source:e:\tp integrador\gestionconsorcio\residentearchivo.cpp
+	<iostream>
+	"residenteArchivo.h"
+	<string.h>
+
+1764126880 source:e:\tp integrador\gestionconsorcio\titular.cpp
+	<iostream>
+	"Titular.h"
+	<string.h>
+
+1762128190 e:\tp integrador\gestionconsorcio\menuresidente.h
+	<managerIntegrante.h>
+
+1762127738 e:\tp integrador\gestionconsorcio\managerintegrante.h
+	"residenteArchivo.h"
+
+1763050118 source:e:\tp integrador\gestionconsorcio\menuresidente.cpp
+	<iostream>
+	"menuResidente.h"
+	"rlutil.h"
+
+1763072436 source:e:\tp integrador\gestionconsorcio\managerintegrante.cpp
+	<iostream>
+	"managerIntegrante.h"
+	<string.h>
+
+1763683050 source:e:\tp integrador\gestionconsorcio\edificio.cpp
+	<iostream>
+	"Edificio.h"
+	<string.h>
+
+1763427300 e:\tp integrador\gestionconsorcio\edificio.h
+	<string>
+
+1763424538 source:e:\tp integrador\gestionconsorcio\unidadfuncional.cpp
+	<iostream>
+	"UnidadFuncional.h"
+	<string.h>
+
+1762971990 e:\tp integrador\gestionconsorcio\unidadfuncional.h
+
+1763430776 source:e:\tp integrador\gestionconsorcio\expensa.cpp
+	<iostream>
+	"Expensa.h"
+	<string.h>
+
+1762972684 e:\tp integrador\gestionconsorcio\expensa.h
+	"Fecha.h"
+
+1763928702 source:e:\tp integrador\gestionconsorcio\reclamo.cpp
+	<iostream>
+	"Reclamo.h"
+
+1762641204 e:\tp integrador\gestionconsorcio\reclamo.h
+	"Fecha.h"
+
+1762382306 source:e:\tp integrador\gestionconsorcio\proveedor.cpp
+	<iostream>
+	"Proveedor.h"
+	<string.h>
+
+1762382104 e:\tp integrador\gestionconsorcio\proveedor.h
+
+1764015664 e:\tp integrador\gestionconsorcio\archivoedificio.h
+	"Edificio.h"
+
+1763929398 source:e:\tp integrador\gestionconsorcio\servicio.cpp
+	<iostream>
+	"Servicio.h"
+	<string.h>
+
+1762734456 e:\tp integrador\gestionconsorcio\servicio.h
+
+1764017134 source:e:\tp integrador\gestionconsorcio\archivoedificio.cpp
+	<iostream>
+	"ArchivoEdificio.h"
+	<string.h>
+
+1762469248 e:\tp integrador\gestionconsorcio\menuedificio.h
+	"ManagerEdificio.h"
+
+1762482434 e:\tp integrador\gestionconsorcio\manageredificio.h
+	"ArchivoEdificio.h"
+
+1763683904 source:e:\tp integrador\gestionconsorcio\manageredificio.cpp
+	<iostream>
+	"ManagerEdificio.h"
+
+1763049612 source:e:\tp integrador\gestionconsorcio\menuedificio.cpp
+	<iostream>
+	"MenuEdificio.h"
+	"rlutil.h"
+
+1762579290 e:\tp integrador\gestionconsorcio\menuunidadfuncional.h
+	"ManagerUnidadFuncional.h"
+
+1762579880 e:\tp integrador\gestionconsorcio\managerunidadfuncional.h
+	"ArchivoUnidadFuncional.h"
+
+1764017212 e:\tp integrador\gestionconsorcio\archivounidadfuncional.h
+	"UnidadFuncional.h"
+
+1764212572 source:e:\tp integrador\gestionconsorcio\archivounidadfuncional.cpp
+	<iostream>
+	"ArchivoUnidadFuncional.h"
+	<string.h>
+
+1763049776 source:e:\tp integrador\gestionconsorcio\menuunidadfuncional.cpp
+	<iostream>
+	"MenuUnidadFuncional.h"
+	"rlutil.h"
+
+1764212572 source:e:\tp integrador\gestionconsorcio\managerunidadfuncional.cpp
+	<iostream>
+	"ManagerUnidadFuncional.h"
+
+1762643826 e:\tp integrador\gestionconsorcio\menureclamo.h
+	"ManagerReclamo.h"
+
+1762643838 e:\tp integrador\gestionconsorcio\managerreclamo.h
+	"ArchivoReclamo.h"
+
+1764017164 e:\tp integrador\gestionconsorcio\archivoreclamo.h
+	"Reclamo.h"
+
+1764016980 source:e:\tp integrador\gestionconsorcio\archivoreclamo.cpp
+	<iostream>
+	"ArchivoReclamo.h"
+
+1763928720 source:e:\tp integrador\gestionconsorcio\managerreclamo.cpp
+	<iostream>
+	"ManagerReclamo.h"
+
+1763050606 source:e:\tp integrador\gestionconsorcio\menureclamo.cpp
+	<iostream>
+	"MenuReclamo.h"
+	"rlutil.h"
+
+1762717206 e:\tp integrador\gestionconsorcio\menuexpensas.h
+	"ManagerExpensas.h"
+
+1764015890 e:\tp integrador\gestionconsorcio\archivoexpensa.h
+	"Expensa.h"
+
+1764016096 e:\tp integrador\gestionconsorcio\archivoexpensapagada.h
+	"expensaPagada.h"
+
+1762972194 e:\tp integrador\gestionconsorcio\expensapagada.h
+	"Fecha.h"
+
+1762972672 e:\tp integrador\gestionconsorcio\managerexpensas.h
+	"ArchivoExpensa.h"
+	"ArchivoExpensaPagada.h"
+
+1764016440 source:e:\tp integrador\gestionconsorcio\archivoexpensa.cpp
+	<iostream>
+	"ArchivoExpensa.h"
+
+1763684596 source:e:\tp integrador\gestionconsorcio\expensapagada.cpp
+	<iostream>
+	"expensaPagada.h"
+
+1764017022 source:e:\tp integrador\gestionconsorcio\archivoexpensapagada.cpp
+	<iostream>
+	"ArchivoExpensaPagada.h"
+
+1764213072 source:e:\tp integrador\gestionconsorcio\managerexpensas.cpp
+	<iostream>
+	"ManagerExpensas.h"
+
+1763050416 source:e:\tp integrador\gestionconsorcio\menuexpensas.cpp
+	<iostream>
+	"MenuExpensas.h"
+	"rlutil.h"
+
+1763929388 source:e:\tp integrador\gestionconsorcio\managerservicio.cpp
+	<iostream>
+	"ManagerServicio.h"
+
+1762734456 e:\tp integrador\gestionconsorcio\managerservicio.h
+	"ArchivoServicio.h"
+
+1764017188 e:\tp integrador\gestionconsorcio\archivoservicio.h
+	"Servicio.h"
+
+1764016996 source:e:\tp integrador\gestionconsorcio\archivoservicio.cpp
+	<iostream>
+	"ArchivoServicio.h"
+
+1762734898 e:\tp integrador\gestionconsorcio\menuservicio.h
+	"ManagerServicio.h"
+
+1763065768 e:\tp integrador\gestionconsorcio\menuinformes.h
+	"ManagerInformes.h"
+	"rlutil.h"
+
+1763050996 e:\tp integrador\gestionconsorcio\managerinformes.h
+	"Expensa.h"
+	"Titular.h"
+	"Reclamo.h"
+	"Servicio.h"
+	"expensaPagada.h"
+	"UnidadFuncional.h"
+	"Residente.h"
+	"Edificio.h"
+	"ArchivoExpensa.h"
+	"ArchivoExpensaPagada.h"
+	"ArchivoUnidadFuncional.h"
+	"archivoTitular.h"
+	"ArchivoReclamo.h"
+	"ArchivoServicio.h"
+	"residenteArchivo.h"
+	"ArchivoEdificio.h"
+	"rlutil.h"
+
+1763050770 source:e:\tp integrador\gestionconsorcio\menuservicio.cpp
+	<iostream>
+	"MenuServicio.h"
+	"rlutil.h"
+
+1764215112 source:e:\tp integrador\gestionconsorcio\managerinformes.cpp
+	<iostream>
+	"ManagerInformes.h"
+
+1763065926 source:e:\tp integrador\gestionconsorcio\menuinformes.cpp
+	<iostream>
+	"MenuInformes.h"
+
+1571569938 e:\tp integrador\gestionconsorcio\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764112230 e:\tp integrador\gestionconsorcio\menuconfiguracion.h
+	"ManagerConfiguracion.h"
+
+1764127688 e:\tp integrador\gestionconsorcio\managerconfiguracion.h
+	"rlutil.h"
+	"ArchivoEdificio.h"
+	"archivoTitular.h"
+	"residenteArchivo.h"
+	"ArchivoUnidadFuncional.h"
+	"ArchivoExpensa.h"
+	"ArchivoExpensaPagada.h"
+	"ArchivoReclamo.h"
+	"ArchivoServicio.h"
+
+1764128744 source:e:\tp integrador\gestionconsorcio\managerconfiguracion.cpp
+	<iostream>
+	"ManagerConfiguracion.h"
+
+1764205300 source:e:\tp integrador\gestionconsorcio\menuconfiguracion.cpp
+	<iostream>
+	"MenuConfiguracion.h"
+	"rlutil.h"
+
+1764022900 e:\tp integrador\gestionconsorcio\copiaseguridadmenu.h
+
+1764017268 source:e:\tp integrador\gestionconsorcio\copiaseguridadmenu.cpp
+	<iostream>
+
